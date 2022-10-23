@@ -1,5 +1,9 @@
 # currency-calculate
 환율 계산기 미니프로젝트
+
+구현 화면
+![image](https://user-images.githubusercontent.com/51894013/197395327-c8452bc1-b100-494e-a68d-51a4798cacb5.png)
+
 # 스프링을 이용해서 다음과 같은 환율계산 웹 기능을 만듭니다.
 첫화면은 다음과 같습니다.  
 
