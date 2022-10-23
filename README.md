@@ -6,7 +6,8 @@ KRW 선택시 화면
 
 
 100USD 입력후 Submit 클릭시 화면
-![image](https://user-images.githubusercontent.com/51894013/197395480-e6964f61-b339-41e0-b83d-0188623aa3f9.png)
+<img width="30%" src="https://user-images.githubusercontent.com/51894013/197395608-c836c505-e443-4dc6-a621-467fe4e29c1b.png"/>
+
 
 
 # 스프링을 이용해서 다음과 같은 환율계산 웹 기능을 만듭니다.
