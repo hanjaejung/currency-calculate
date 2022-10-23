@@ -1,19 +1,19 @@
 # currency-calculate
 환율 계산기 미니프로젝트
 
-KRW 선택시 화면
+1. KRW 선택시 화면
 <br/>
 <kbd>
 <img src="https://user-images.githubusercontent.com/51894013/197395817-e02e8773-6f94-4245-9b3e-5b9e601c3057.png"/>
 </kbd>
 
-100USD 입력후 Submit 클릭시 화면
+2. 100USD 입력후 Submit 클릭시 화면
 <br/>
 <kbd>
 <img src="https://user-images.githubusercontent.com/51894013/197395608-c836c505-e443-4dc6-a621-467fe4e29c1b.png"/>
 </kbd>
 
-수취금액을 잘못입력했을시 “송금액이 바르지 않습니다"라는 문구를 팝업으로 보여줍니다.
+3. 수취금액을 잘못입력했을시 “송금액이 바르지 않습니다"라는 문구를 팝업으로 보여줍니다.
 <br/>
 <kbd>
 <img src="https://user-images.githubusercontent.com/51894013/197396060-109f054f-df75-4a83-87ff-1b589aa2cbbe.png"/>
