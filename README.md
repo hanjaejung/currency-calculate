@@ -16,7 +16,7 @@ KRW 선택시 화면
 수취금액을 잘못입력했을시 “송금액이 바르지 않습니다"라는 문구를 팝업으로 보여줍니다.
 <br/>
 <kbd>
-<img src="https://user-images.githubusercontent.com/51894013/197395608-c836c505-e443-4dc6-a621-467fe4e29c1b.png"/>
+<img src="https://user-images.githubusercontent.com/51894013/197395994-08e065ed-9f22-4212-8006-43d75990fd1b.png"/>
 </kbd>
 
 # 스프링을 이용해서 다음과 같은 환율계산 웹 기능을 만듭니다.
