@@ -16,6 +16,10 @@ KRW 선택시 화면
 수취금액을 잘못입력했을시 “송금액이 바르지 않습니다"라는 문구를 팝업으로 보여줍니다.
 <br/>
 <kbd>
+<img src="https://user-images.githubusercontent.com/51894013/197396060-109f054f-df75-4a83-87ff-1b589aa2cbbe.png"/>
+</kbd>
+<br/>
+<kbd>
 <img src="https://user-images.githubusercontent.com/51894013/197395994-08e065ed-9f22-4212-8006-43d75990fd1b.png"/>
 </kbd>
 
