@@ -7,7 +7,7 @@ KRW 선택시 화면
 
 100USD 입력후 Submit 클릭시 화면
 <kbd>
-<img width="30%" src="https://user-images.githubusercontent.com/51894013/197395608-c836c505-e443-4dc6-a621-467fe4e29c1b.png"/>
+<img src="https://user-images.githubusercontent.com/51894013/197395608-c836c505-e443-4dc6-a621-467fe4e29c1b.png"/>
 </kbd>
 
 
