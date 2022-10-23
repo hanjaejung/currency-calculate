@@ -2,8 +2,10 @@
 환율 계산기 미니프로젝트
 
 KRW 선택시 화면
-![image](https://user-images.githubusercontent.com/51894013/197395327-c8452bc1-b100-494e-a68d-51a4798cacb5.png)
-
+<br/>
+<kbd>
+<img src="https://user-images.githubusercontent.com/51894013/197395817-e02e8773-6f94-4245-9b3e-5b9e601c3057.png"/>
+</kbd>
 
 100USD 입력후 Submit 클릭시 화면
 <br/>
