@@ -18,7 +18,7 @@ public class CurrencyInformationTest {
 
     @Test
     public void currencyInformationTest() throws JsonProcessingException, JSONException {
-
+        //각 나라의 환율정보와 환율계산 테스트입니다.
         var result = information.searchApi("KRW");  //KRW 값 확인 테스트
         var getQuotes = result.getQuotes();
         System.out.println(getQuotes); //api 열결 후 환율객체 값 확인 테스트
