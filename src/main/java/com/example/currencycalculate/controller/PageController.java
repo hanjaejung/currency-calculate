@@ -8,7 +8,7 @@ import org.springframework.web.servlet.ModelAndView;
 @Controller
 @RequestMapping("/pages")
 public class PageController {
-
+    //화면 호출해주는 api
     @GetMapping("/main")
     public ModelAndView main(){
         return new ModelAndView("main");
