@@ -14,12 +14,12 @@ public class ApiController {
 
     private final CurrencyService currencyService;
 
-    @GetMapping("/country")
+    @GetMapping("/country") //환율정보 가져오는 api
     public double countryCurrency(@RequestParam String country){
         return currencyService.currency(country);
     }
 
-    @GetMapping("/calculate")
+    @GetMapping("/calculate") //환율 계산 api
     public String calculate(@RequestParam double currency, @RequestParam int usd){
         return currencyService.currencyCalculator(currency, usd);
     }
