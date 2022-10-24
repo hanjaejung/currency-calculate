@@ -14,12 +14,14 @@ import org.springframework.web.util.UriComponentsBuilder;
 
 @Component
 public class Information {
-
+    //apiKey정보를 @Value어노테이션을 통해 가져옵니다.
     @Value("${currency.api.key}")
     private String apiKey;
+
     public ApplicationKeyRes searchApi(String country){
         var applecationKeyReq = new ApplicationKeyReq();
         applecationKeyReq.setCountry(country);
+        //UriComponentsBuilder를 이용하여 환율정보를 가져옵니다
         var uri = UriComponentsBuilder.fromUriString("http://www.apilayer.net/api/live")
                 .queryParam("access_key",apiKey)
                 .queryParam("currencies",applecationKeyReq.getCountry())
