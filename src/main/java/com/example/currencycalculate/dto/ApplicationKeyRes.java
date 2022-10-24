@@ -12,6 +12,7 @@ import java.util.Map;
 @NoArgsConstructor
 @AllArgsConstructor
 public class ApplicationKeyRes {
+    //환율정보 가져오는 객체
     private boolean success;
     private String terms;
     private String privacy;
